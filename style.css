@@ -1,0 +1,15 @@
+.text {
+    background-color: antiquewhite;color: black; text-align: center;
+}
+.text1 {
+    background-color: black; border-radius: 5px 5px 5px 5px;text-align: center;
+}
+.m {
+    text-align: center; color:yellow;
+}
+.m1 {
+    border-radius: 5px 5px 5px 5px;
+}
+.clas {
+    background-color: green;border-radius: 10px 10px 10px 10px;
+}
